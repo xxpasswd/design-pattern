@@ -3,3 +3,4 @@
 #### 3. 观察者模式 [observer](./obsever.py)
 #### 4. 外观模式 [facade](./facade.py)
 #### 5. 发布/订阅者 [publish_subscriber](./publish_subscriber.py)
+#### 6. 3-tier [3-tier](./3-tier.py)
