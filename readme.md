@@ -1,6 +1,17 @@
+## Creational Patterns
+
 #### 1. 单例模式 [singleton](./singleton.py)
-#### 2. 适配器模式 [adapter](./adapter.py)
-#### 3. 观察者模式 [observer](./obsever.py)
-#### 4. 外观模式 [facade](./facade.py)
-#### 5. 发布/订阅者 [publish_subscriber](./publish_subscriber.py)
-#### 6. 3-tier [3-tier](./3-tier.py)
+
+## Structual Patterns
+
+#### 1. 适配器模式 [adapter](./adapter.py)
+#### 2. 外观模式 [facade](./facade.py)
+#### 3. 3-tier [3-tier](./3-tier.py)
+#### 4. 桥接模式[bridge](./bridge.py)
+
+
+## Behavioral Patterns
+
+#### 1. 观察者模式 [observer](./obsever.py)
+#### 2. 发布/订阅者 [publish_subscriber](./publish_subscriber.py)
+
