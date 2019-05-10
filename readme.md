@@ -8,6 +8,7 @@
 #### 2. 外观模式 [facade](./facade.py)
 #### 3. 3-tier [3-tier](./3-tier.py)
 #### 4. 桥接模式[bridge](./bridge.py)
+#### 5. 装饰器模式[decorator](./decorator.py)
 
 
 ## Behavioral Patterns
