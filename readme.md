@@ -1,6 +1,7 @@
 ## Creational Patterns
 
 #### 1. 单例模式 [singleton](./singleton.py)
+#### 2. 简单工厂模式[simple_factory](./simple_factory.py)
 
 ## Structual Patterns
 
