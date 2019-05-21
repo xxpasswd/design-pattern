@@ -10,6 +10,7 @@
 #### 3. 3-tier [3-tier](./3-tier.py)
 #### 4. 桥接模式[bridge](./bridge.py)
 #### 5. 装饰器模式[decorator](./decorator.py)
+#### 6. 组合模式[composite](./composite.py)
 
 
 ## Behavioral Patterns

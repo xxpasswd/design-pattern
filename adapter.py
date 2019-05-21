@@ -1,6 +1,6 @@
 """
 适配器模式
-适配器模式为类提供了一个统一的接口
+修改一个类的接口变为客户希望的接口，使原本接口不兼容的类能够一起工作
 
 参考文档：https://sourcemaking.com/design_patterns/adapter
 """
