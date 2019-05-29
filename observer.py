@@ -1,6 +1,6 @@
 """
 观察者模式：
-维护一个观察者列表，有任何变化的时候，通知观察者
+被观察者维护一个观察者列表，有任何变化的时候，通知观察者
 
 应用：
 django signals：Django Signals: https://docs.djangoproject.com/en/2.1/topics/signals/
