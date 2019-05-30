@@ -22,3 +22,5 @@
 #### 4. 命令模式 [command](./command.py)
 #### 5. 迭代器模式 [iterator](./iterator.py)
 #### 6. 中介者模式 [mediator](./mediator.py)
+#### 7. 策略模式 [strategy](./strategy.py)
+#### 8. 模板方法模式 [template](./template.py)
