@@ -3,6 +3,8 @@
 #### 1. 单例模式 [singleton](./singleton.py)
 #### 2. 简单工厂模式 [simple_factory](./simple_factory.py)
 #### 3. 抽象工厂模式 [abstract_factory](./abstract_factory.py)
+#### 4. 原型模式 [prototype](./prototype.py)
+#### 5. 建造者模式 [builder](./builder.py)
 
 ## Structual Patterns
 
