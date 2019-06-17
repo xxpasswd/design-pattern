@@ -10,11 +10,12 @@
 
 #### 1. 适配器模式 [adapter](./adapter.py)
 #### 2. 桥接模式 [bridge](./bridge.py)
-#### 3. 外观模式 [facade](./facade.py)
-#### 4. 3-tier [3-tier](./3-tier.py)
-#### 5. 装饰器模式 [decorator](./decorator.py)
-#### 6. 组合模式 [composite](./composite.py)
-#### 7. 代理模式 [proxy](./proxy.py)
+#### 3. 组合模式 [composite](./composite.py)
+#### 4. 装饰器模式 [decorator](./decorator.py)
+#### 5. 外观模式 [facade](./facade.py)
+#### 6. 享元模式 [flyweight](./flyweight.py)
+#### 7. 3-tier [3-tier](./3-tier.py)
+#### 8. 代理模式 [proxy](./proxy.py)
 
 
 ## Behavioral Patterns
