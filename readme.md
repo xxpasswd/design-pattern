@@ -14,12 +14,13 @@
 #### 4. 装饰器模式 [decorator](./decorator.py)
 #### 5. 外观模式 [facade](./facade.py)
 #### 6. 享元模式 [flyweight](./flyweight.py)
-#### 7. 3-tier [3-tier](./3-tier.py)
-#### 8. 代理模式 [proxy](./proxy.py)
+#### 7. 代理模式 [proxy](./proxy.py)
+#### 8. 3-tier [3-tier](./3-tier.py)
 
 
 ## Behavioral Patterns
 
+#### 1. 责任链模式 [chain_of_responsibility](./chain_of_responsibility.py)
 #### 1. 观察者模式 [observer](./obsever.py)
 #### 2. 发布/订阅者 [publish_subscriber](./publish_subscriber.py)
 #### 3. 责任链模式 [chain_of_responsibility](./chain_of_responsibility.py)
