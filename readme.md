@@ -29,3 +29,4 @@
 #### 6. 中介者模式 [mediator](./mediator.py)
 #### 7. 策略模式 [strategy](./strategy.py)
 #### 8. 模板方法模式 [template](./template.py)
+#### 9. chaining_method [chaining_method](./chaining_method.py)
