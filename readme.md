@@ -22,10 +22,10 @@
 
 #### 1. 责任链模式 [chain_of_responsibility](./chain_of_responsibility.py)
 #### 2. 命令模式 [command](./command.py)
+#### 3. 迭代器模式 [iterator](./iterator.py)
 #### 1. 观察者模式 [observer](./obsever.py)
 #### 2. 发布/订阅者 [publish_subscriber](./publish_subscriber.py)
 #### 3. 责任链模式 [chain_of_responsibility](./chain_of_responsibility.py)
-#### 5. 迭代器模式 [iterator](./iterator.py)
 #### 6. 中介者模式 [mediator](./mediator.py)
 #### 7. 策略模式 [strategy](./strategy.py)
 #### 8. 模板方法模式 [template](./template.py)
